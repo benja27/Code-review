@@ -67,7 +67,7 @@ body {
 }
 
 #welcome-section i {
-  font-weight: ;
+  font-weight: 26px;
 }
 
 /* list of project  */
@@ -165,8 +165,6 @@ img {
   gap: 1.2rem;
   padding-top: 2rem;
 }
-
-
 
 /* footer  */
 
